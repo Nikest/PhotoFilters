@@ -1,0 +1,27 @@
+.canvas {
+    border: 1px solid #f2f2f2;
+    background: #fff;
+    margin: 25px auto;
+    display: block;
+}
+
+hr {
+    width: 100%;
+    border: 1px solid #f2f2f2;
+}
+
+.button {
+    color: #fff;
+    background: #a875d6;
+    padding: 15px 25px;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.hidden {
+    display: none;
+}
